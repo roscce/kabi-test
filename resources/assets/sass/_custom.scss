@@ -1,0 +1,110 @@
+#li{
+  padding-left: 25px;
+  padding-right: 25px;
+  color:white;
+  border-right: 1px solid rgba(0,0,0,0.14);
+}
+
+
+
+#first{
+  padding-right: 25px;
+  padding-left: 25px;
+  color:black;
+  border-right: 1px solid rgba(0,0,0,0.14);
+  margin-left: -26px;
+}
+
+
+.nav-link{
+  font-family: 'Open Sans', sans-serif;
+  font-weight:600;
+  font-size:16px;
+}
+
+#izdelek{
+  margin:10px 0px 10px 0px;
+  width:auto;
+  height: 666px;
+  background-color: white;
+  border-radius: 5px;
+  box-shadow: 0 3px 10px 0 rgba(0,0,0,0.05);
+}
+
+#opisIzdelka{
+  font-family: 'Open Sans', sans-serif;
+  margin: 30px 30px 0px 30px;
+  box-shadow: 0 0 0 0;
+  //height: 254px;
+}
+
+#opisIzdelka2{
+  font-family: 'Open Sans', sans-serif;
+  margin: 20px 0px 30px 0px;
+  box-shadow: 0 0 0 0;
+}
+
+
+
+//ime izdelka
+.nas{
+  font-weight: bold;
+  font-size: 24px;
+  color: #262626;
+  letter-spacing: 0;
+}
+
+//podnaslov izdelka
+.podnas{
+
+  font-size: 20px;
+  color: #686868;
+  letter-spacing: 0;
+}
+
+//odstavki oz opis izdelka
+p{
+
+  font-size: 13px;
+  color: #686868;
+  letter-spacing: 0;
+}
+
+//gumb za vec podatkov in preusmeritev
+
+#vecGumb{
+  margin:30px;
+  border: 2px solid #5EA0E0;
+  border-radius: 5px;
+  position: relative;
+  width:14em;
+  font-size:15px;
+
+
+}
+
+#nazajGumb{
+  border: 2px solid #5EA0E0;
+  border-radius: 5px;
+  font-size: 18px;
+}
+
+.gumb {
+  position:absolute;
+  left: 0;
+  bottom: 0;
+
+}
+
+#naslov{
+  height: 60px;
+  margin: 20px 0px 20px 30px;
+}
+
+
+#main-cn{
+  width: 85%;
+  margin: 15px auto;
+  padding-left: 0px;
+  padding-right: 0px;
+}
